@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Russavell
+- 👋 Hi, I’m @Rus
 - 👀 I’m interested in Software QA Automation testing
 - 🌱 I’m currently learning JavaScript programming language
-- 💞️ I’m looking to collaborate on QA field
+- 💞️ I’m looking to collaborate on the QA field
 - 📫 How to reach me - LinkedIn
 
 <!---
